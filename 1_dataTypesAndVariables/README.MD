@@ -6,6 +6,7 @@
 - Definire una variabile `confuso` nel quale riportare un valore boleano sull'attuale stato di confusione;
 - Definire una variabile `niente` nel quale riportare il valore nullo;
 - Stampare su console il contenuto di tutte le variabili;
+- Stampare su console la stringa "Fine parte 1";
 - Salvare ed eseguire il `codice testVariabili.js`;
 
 - Aggiungere al file `testVariabili.js` con le seguenti istruzioni;
@@ -16,5 +17,12 @@
 - Definire una variabile `parola2` dove copiare il valore della variabile `parola`;
 - Modificare il valore della variabile `numero`;
 - Modificare il valore della variabile `parola2`;
+- (opzionale) Moficare il contenuto della variable `confuso` con un valore boleano;
 - Stampare su console il contenuto di tutte le variabili;
+- Stampare su console la stringa "Fine parte 2";
 - Salvare ed eseguire il `codice testVariabili.js`;
+
+- Aggiungere al file `testVariabili.js` con le seguenti istruzioni;
+- Modificare il contenuto della variabile `numero` con la stringa parola "possibile";
+- Stampare il contenuto della variabile `numero`;
+- Stampare su console la stringa "Fine.";
