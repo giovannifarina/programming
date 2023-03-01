@@ -1,0 +1,1 @@
+- Scrivere un codice js all'interno di un file `interact2.js` che chiede 3 volte all'utente una parola e successivamente e stampa a console in ordine inverso (se per esempio l'utente digita prima "1", poi "2", ed infine "3", nella console si dovrà vedere prima "3", poi "2", ed infine "1").
