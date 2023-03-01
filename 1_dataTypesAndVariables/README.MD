@@ -26,3 +26,10 @@
 - Modificare il contenuto della variabile `numero` con la stringa parola "possibile";
 - Stampare il contenuto della variabile `numero`;
 - Stampare su console la stringa "Fine.";
+
+- Creare un file `testVariabili2.js`
+- Definire una variabile `primoNumero` nel quale riportare un numero a scelta;
+- Definire una variabile `secondoNumero` nel quale riportare un numero a scelta;
+- Stampare su console il contenuto di tutte le variabili;
+- Scambiare il contenuto delle due variabili;
+- Stampare su console il contenuto di tutte le variabili;
