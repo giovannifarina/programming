@@ -22,4 +22,5 @@ Credits Alberto Olla https://github.com/AlbertoOlla/esercizi-di-programmazione-j
     - 27 <= v <= 29: ottimo
     - v = 30: eccellente
     - voto non valido altrimenti
-- Scrivere un programma che chiede all'utente di digitare quale alimento preferisce tra "pizza" o "sushi" e visualizzi un messaggio con scritto "🍕" nel primo caso, "🍣" nel secondo, "❓" altrimenti
+- Scrivere un programma che chiede all'utente di digitare quale alimento preferisce tra "pizza" o "sushi" e visualizzi un messaggio con scritto "🍕" nel primo caso, "🍣" nel secondo, non visualizzi niente altrimenti.
+- Scrivere un programma chiede all'utente il tipo di operazione matematica che intenda eseguire tra "somma" o "moltiplicazione", chieda di inserire due numeri e successivamente comunichi il risultato dell'operazione.
