@@ -9,13 +9,13 @@ Scrivere un codice js all'interno di un file `operators.js` che:
 Credits Maria Eugenia Occhiuto http://groups.di.unipi.it/~occhiuto/EserciziUmanistica/Esercizi1.pdf
 
 Scrivere un codice js all'interno di un file `party.js` che:
-    - Chiede il numero di partecipanti ad un party;
-    - Chiede le bottiglie di birra che sono state acquistate;
-    - Chiede la capacità delle bottiglie (ad esempio 0.6, 0.3, o 1);
-    - Comunica all'utente quanta birra può bere un partecipante in media;
+- Chiede il numero di partecipanti ad un party;
+- Chiede le bottiglie di birra che sono state acquistate;
+- Chiede la capacità delle bottiglie (ad esempio 0.6, 0.3, o 1);
+- Comunica all'utente quanta birra può bere un partecipante in media;
 
 Scrivere un codice js all'interno di un file `media.js` che:
-    - Chiede all'utente 3 numeri e ne comunica la media.
+- Chiede all'utente 3 numeri e ne comunica la media.
 
 Scrivere un codice js all'interno di un file `mediaPesata.js` che:
-    - Chiede all'utente 3 numeri, 3 pesi associati a questi numeri e ne comunica la media pesata.
+- Chiede all'utente 3 numeri, 3 pesi associati a questi numeri e ne comunica la media pesata (https://www.youmath.it/domande-a-risposte/view/6298-media-ponderata.html).
