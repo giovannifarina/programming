@@ -24,3 +24,11 @@ Credits Alberto Olla https://github.com/AlbertoOlla/esercizi-di-programmazione-j
     - voto non valido altrimenti
 - Scrivere un programma che chiede all'utente di digitare quale alimento preferisce tra "pizza" o "sushi" e visualizzi un messaggio con scritto "🍕" nel primo caso, "🍣" nel secondo, non visualizzi niente altrimenti.
 - Scrivere un programma chiede all'utente il tipo di operazione matematica che intenda eseguire tra "somma" o "moltiplicazione", chieda di inserire due numeri e successivamente comunichi il risultato dell'operazione.
+
+<!--- IF/ELSE IF ANNIDATI E OPERATORI LOGICI --->
+
+Credits Paolo Milazzo
+
+- Scrivere un programma che chiede all’utente di inserire un numero intero e visualizza il messaggio "Pari e Piccolo" se il numero è pari ed è compreso tra 0 e 100, altrimenti stampa il messaggio "Non e’ pari e piccolo". (Nota: questo programma si pu`o realizzare usando if-else annidati o espressioni booleane. Provate entrambe le versioni.)
+- Scrivere un programma che l'età dell'utente, e stampa "bambino/a" se l'età è compresa tra 0 e 12, "adolescente" se compresa tra "14 e 18", "adulto" se maggiore di 18.
+- Scrivere un programma che chiede all'utente due numeri e stampa "condizione particolare soddisfatta" se entrambi i numeri sono maggiori di 10 o entrambi sono uguali a 0, altrimenti viene stampato il messaggio "condizione non soddisfatta".
