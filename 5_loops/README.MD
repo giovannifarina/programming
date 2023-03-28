@@ -1,0 +1,3 @@
+- Scrivere un programma che chiede ripetutamente all'utente se è pronto fino alla sua risposta affermativa. Il programma stampa successivamente un messaggio di benvenuto.
+- Scrivere un programma che chiede all'utente di inserire il suo anno di nascita. In particolare, il programma chiede ripetutamente di inserire l'anno se l'utente non ha digitato un numero intero compreso tra 1900 e 2023.
+- Scrivere un programma che chiede all'utente di inserire un numero intero stampa a console la "tabellina" per tale numero (ossia inserendo 3, stamparà "3", poi "6","9", ..., "30").
