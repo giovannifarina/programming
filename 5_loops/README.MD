@@ -1,3 +1,12 @@
 - Scrivere un programma che chiede ripetutamente all'utente se è pronto fino alla sua risposta affermativa. Il programma stampa successivamente un messaggio di benvenuto.
-- Scrivere un programma che chiede all'utente di inserire il suo anno di nascita. In particolare, il programma chiede ripetutamente di inserire l'anno se l'utente non ha digitato un numero intero compreso tra 1900 e 2023.
+- Scrivere un programma che chiede ripetutamente all'utente di inserire il suo anno di nascita finchè l'utente non ha digitato un numero intero compreso tra 1900 e 2023, al quale fa seguire un messaggio di benvenuto.
+- Scrivere un programma che chiede ripetutamente di inserire un numero intero, il numero verrà stampato a console se valido, oppure verrà notificato con un messaggio se il dato inserito non è un numero intero, oppure il programma terminerà se l'utente avrà digitato "alt".
+- Scrivere un programma chiede all'utente il proprio nome e successivamente un numero n, e stampa a console il nome n volte
 - Scrivere un programma che chiede all'utente di inserire un numero intero stampa a console la "tabellina" per tale numero (ossia inserendo 3, stamparà "3", poi "6","9", ..., "30").
+- [aula] Scrivere un programma che chiede ripetutamente all'utente di inserire dei numeri e ne calcola la somma di tutti i numeri inseriti fino al carattere "*" (assumere che l'utente digiti solo numeri o il carattere "*").
+- [aula] Scrivere un programma che chiede ripetutamente all'utente di inserire dei numeri e ne calcola il minimo di tutti i numeri inseriti fino al carattere "*" (assumere che l'utente digiti solo numeri o il carattere "*").
+- [aula] Scrivere un programma che chiede ripetutamente all'utente di inserire dei numeri e ne calcola la media aritmetica di tutti i numeri inseriti fino al carattere "*" (assumere che l'utente digiti solo numeri o il carattere "*").
+- [aula] Scrivere un programma che chiede all'utente di digitare un numero n e comunica all'utente tramite console se il numero è primo o meno (un numero è primo se è un intero positivo maggiore di 1, divisibile solo per stesso e per 1, ossia il resto della divisione intera tra n e tutti i numeri compresi tra 2 e n-1 è sempre != 0). Scrivere lo stesso programma usando sia il costrutto while che for.
+- [esercizio] Scrivere un programma che chiede all'utente di inserire una base ed un espondente di una potenza (ad esempio, base = 2 ed esponente = 2 rappresentano 2^2) e nel calcola il valore senza utilizzare l'operatore "**".
+- [esercizio] Scrivere un programma che chiede all'utente due volte di inserire una stringa, se le stringhe sono uguali il programma stamperà la stringa, se le stringhe sono diverse il programma chiederà nuovamente due stringhe.
+
