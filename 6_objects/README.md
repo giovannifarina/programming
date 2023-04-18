@@ -1,0 +1,1 @@
+- Definire un oggetto *Persona* in grado di collezionare le informazioni su una singola persona. L'oggetto tenere traccia delle seguenti informazioni: nome, cognome, giorno, mese, anno di nascita. 

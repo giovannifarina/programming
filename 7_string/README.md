@@ -1,0 +1,2 @@
+- Scrivere un programma che chiede all'utente di digitare una parola/frase e verificare se la parola/frase inserita contiene sia la lettera "a" e "i";
+- Scrivere un programma che chiede all'utente di digitare una parola/frase e verificare se la parola/frase inserita contiene almeno tre vocali diverse;
