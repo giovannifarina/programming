@@ -6,6 +6,29 @@ function Person(firstName, lastName, day, month, year) {
     this.year = year;
 }
 
+Person.prototype.getAge = function() {
+    // Get the current date and time
+    let today = new Date();
+  
+    // Get the current day
+    let currentDay = today.getDate();
+  
+    // Get the current month
+    let currentMonth = today.getMonth() + 1;
+  
+    // Get the current year
+    let currentYear = today.getFullYear();
+  
+    // Calculate the person's age
+    var age = currentYear - this.year;
+    if (currentMonth < this.month || (currentMonth == this.month && currentDay < this.day)) {
+      age--;
+    }
+  
+    // Return the person's age
+    return age;
+};
+
 // Define a function to print the information of a Person object
 function printPerson(person) {
     console.log("Name: " + person.firstName + " " + person.lastName);
@@ -24,3 +47,5 @@ var person = new Person(firstName, lastName, day, month, year);
 
 // Print the information of the Person object
 printPerson(person);
+
+console.log(person.getAge());
