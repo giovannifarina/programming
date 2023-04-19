@@ -1,2 +1,3 @@
 - Scrivere un programma che chiede all'utente di digitare una parola/frase e verificare se la parola/frase inserita contiene sia la lettera "a" e "i";
 - Scrivere un programma che chiede all'utente di digitare una parola/frase e verificare se la parola/frase inserita contiene almeno tre vocali diverse;
+- Scrivere un programma che chiede il nome ed il cognome ad un utente e stampa il messaggio "Benvenuto #nome #cognome!" dove #nome e #cognome sono i dati inseriti dall'utente convertiti in sole lettere maiuscole;
