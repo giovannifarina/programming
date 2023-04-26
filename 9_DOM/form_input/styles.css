@@ -1,0 +1,57 @@
+  /* Form container */
+  .form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+  }
+
+  /* Form input fields */
+  .form-container input[type="text"],
+  .form-container input[type="date"],
+  .form-container input[type="radio"],
+  .form-container input[type="checkbox"] {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 14px;
+    line-height: 1.5;
+    box-sizing: border-box;
+  }
+
+  /* Form radio and checkbox labels */
+  .form-container label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+
+  /* Form radio and checkbox input and label alignment */
+  .form-container .radio-container,
+  .form-container .checkbox-container {
+    display: flex;
+    align-items: center;
+  }
+
+  /* Form radio and checkbox input */
+  .form-container input[type="radio"],
+  .form-container input[type="checkbox"] {
+    margin-right: 5px;
+  }
+
+  /* Form submit button */
+  .form-container input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+  }

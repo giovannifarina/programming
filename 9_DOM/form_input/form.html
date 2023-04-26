@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title>Form Input</title>
+    <meta charset="UTF-8"> <!-- Specify character encoding -->
+    <link rel="stylesheet" href="styles.css"> 
+</head>
+
+<body>
+    <div class="form-container">
+        <form>
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" required>
+      
+          <label for="surname">Surname:</label>
+          <input type="text" id="surname" name="surname" required>
+      
+          <label for="dob">Date of Birth:</label>
+          <input type="date" id="dob" name="dob" required>
+      
+          <label>Occupation:</label>
+          <div class="radio-container">
+            <input type="radio" id="student" name="occupation" value="student">
+            <label for="student">Student</label>
+          </div>
+          <div class="radio-container">
+            <input type="radio" id="instructor" name="occupation" value="instructor">
+            <label for="instructor">Instructor</label>
+          </div>
+          <div class="radio-container">
+            <input type="radio" id="other" name="occupation" value="other">
+            <label for="other">Other</label>
+          </div>
+      
+          <label>Liked colors:</label>
+          <div class="checkbox-container">
+            <input type="checkbox" id="red" name="colors[]" value="red">
+            <label for="red">Red</label>
+          </div>
+          <div class="checkbox-container">
+            <input type="checkbox" id="blue" name="colors[]" value="blue">
+            <label for="blue">Blue</label>
+          </div>
+          <div class="checkbox-container">
+            <input type="checkbox" id="green" name="colors[]" value="green">
+            <label for="green">Green</label>
+          </div>
+          <input type="submit" value="Submit">
+        </form>
+    </div>
+
+    <script src="code.js"></script>
+</body>
+
+</html>
