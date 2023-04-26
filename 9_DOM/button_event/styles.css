@@ -1,0 +1,22 @@
+/* Center the button using flexbox */
+html, body {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* Style the button */
+  .myButton {
+    padding: 12px 24px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+  }
+
+  /* Hover effect for the button */
+  .myButton:hover {
+    background-color: #0056b3;
+  }
