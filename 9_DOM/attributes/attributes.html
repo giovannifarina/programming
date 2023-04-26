@@ -1,0 +1,10 @@
+<div id="elem" about="Elephant"></div>
+
+  <script>
+    alert( elem.getAttribute('About') ); // (1) 'Elephant', legge
+
+    elem.setAttribute('Test', 123); // (2), scrive
+
+    for (let attr of elem.attributes) { // (4) li elenca tutti
+      alert( `${attr.name} = ${attr.value}` );
+    }
