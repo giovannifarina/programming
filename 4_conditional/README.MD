@@ -30,6 +30,6 @@ Credits Alberto Olla https://github.com/AlbertoOlla/esercizi-di-programmazione-j
 
 Credits Paolo Milazzo
 
-- [aula] 12) Scrivere un programma che chiede all’utente di inserire un numero intero e visualizza il messaggio "Pari e Piccolo" se il numero è pari ed è compreso tra 0 e 100, altrimenti stampa il messaggio "Non e’ pari e piccolo". (Nota: questo programma si può realizzare usando if-else annidati o espressioni boWrite a program that asks the user to enter an integer and displays the message "Even and Small" if the number is even and is between 0 and 100, otherwise it prints the message "Not even and small."oleane. Provate entrambe le versioni.)
+- [aula] 12) Scrivere un programma che chiede all’utente di inserire un numero intero e visualizza il messaggio "Pari e Piccolo" se il numero è pari ed è compreso tra 0 e 100, altrimenti stampa il messaggio "Non e’ pari e piccolo". (Nota: questo programma si può realizzare usando if-else annidati o espressioni booleane. Provate entrambe le versioni.)
 - [esercizio] 13) Scrivere un programma che chiede all’utente di inserire un numero intero e visualizza il messaggio "piccolo e multiplo di 10" se il numero è compreso tra 0 e 100 e multiplo di 10, altrimenti non succede niente.
 - [esercizio] 14) Scrivere un programma che chiede all'utente due numeri e stampa "condizione particolare soddisfatta" se entrambi i numeri sono maggiori di 10 o entrambi sono uguali a 0, altrimenti viene stampato il messaggio "condizione non soddisfatta".
